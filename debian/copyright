@@ -1,0 +1,13 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: opentype.js
+Source: http://opentype.js.org/
+
+Files: debian/*
+Copyright: (c) 2015, EDF SA
+License: GPL-3
+ Please refer to /usr/share/common-licenses/GPL-3
+
+Files: *
+Copyright: (c) 2015, Frederik De Bleser
+License: MIT
+ Please refer to /usr/share/common-licenses/MIT
