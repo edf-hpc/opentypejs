@@ -2,6 +2,11 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: opentype.js
 Source: http://opentype.js.org/
 
+Files: debian/converter.js
+Copyright: (c) 2016, Dernier Cri
+License: MIT
+ Please refer to /usr/share/common-licenses/MIT
+
 Files: debian/*
 Copyright: (c) 2015, EDF SA
 License: GPL-3

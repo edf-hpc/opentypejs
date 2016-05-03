@@ -1,0 +1,3 @@
+To use font converter script, just run:
+
+ $ nodejs /usr/lib/nodejs/font-converter.js <input>.ttf > <output>.typeface.js

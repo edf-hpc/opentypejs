@@ -1,1 +1,2 @@
 dist/*.js	usr/lib/nodejs/
+debian/font-converter.js usr/lib/nodejs/
