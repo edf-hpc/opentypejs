@@ -1,0 +1,14 @@
+Source: opentypejs
+Section: web
+Priority: extra
+Maintainer: Rémi Palancher <remi-externe.palancher@edf.fr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://opentype.js.org/
+
+Package: node-opentypejs
+Architecture: all
+Depends: ${misc:Depends}, nodejs
+Description: Javascript parser for OpenType fonts - NodeJS
+ opentype.js is an OpenType and TrueType font parser and writer. It allows you
+ to access the letterforms of text from the browser or node.js.
